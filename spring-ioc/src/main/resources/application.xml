@@ -1,8 +1,8 @@
 <beans>
-    <bean id="dog" class="cn.dox.Dog">
+    <bean id="dog" class="cn.dox.xml_obj.Dog">
         <property name="name" value="pret"/>
     </bean>
-    <bean id="person" class="cn.dox.Person">
+    <bean id="person" class="cn.dox.xml_obj.Person">
         <property name="name" value="张三"/>
         <property name="age" value="66"/>
         <property name="dog" ref="dog"/>

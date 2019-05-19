@@ -1,4 +1,4 @@
-package cn.dox;
+package cn.dox.xml_obj;
 
 public class Person {
     private String name;
