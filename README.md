@@ -4,3 +4,5 @@
     * 模仿spring ioc写的简易案例
 2. [spring-aop](spring-aop)
     * 模仿spring aop写的简易案例
+3. [kafkademo](kafkademo)
+    * spring boot kafka demo
