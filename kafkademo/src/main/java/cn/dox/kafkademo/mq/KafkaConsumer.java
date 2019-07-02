@@ -24,7 +24,7 @@ public class KafkaConsumer {
     }
 
 
-    @KafkaListener(topics = {"topic1", "topic2"})
+    @KafkaListener(topics = {"topic1"})
     public void processMessage(ConsumerRecord<Integer, String> record) {
         log.info("kafka process message start");
         log.info("process message, topic = [{}], data = [{}]", record.topic(), record.value());
