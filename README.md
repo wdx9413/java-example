@@ -6,3 +6,5 @@
     * 模仿spring aop写的简易案例
 3. [kafkademo](kafkademo)
     * spring boot kafka demo
+4. [sharding-jdbc-demo](sharding-jdbc-demo)
+    * sharding-jdbc demo：sharding
