@@ -29,3 +29,8 @@ target/
 
 ### VS Code ###
 .vscode/
+
+
+### mysql dir data
+mysql-master/*
+mysql-slave1/* 
