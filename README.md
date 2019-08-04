@@ -7,4 +7,4 @@
 3. [kafkademo](kafkademo)
     * spring boot kafka demo
 4. [sharding-jdbc-demo](sharding-jdbc-demo)
-    * sharding-jdbc demo：sharding
+    * sharding-jdbc demo：sharding, read-write-split
