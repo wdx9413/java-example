@@ -30,3 +30,5 @@ master_log_file='mysql-bin.000004',master_log_pos=1160,master_port=3306;
 	start slave;
 	show slave status\G
 ```
+
+@see [mysql-docker](https://github.com/wdx9413/mysql-docker)
